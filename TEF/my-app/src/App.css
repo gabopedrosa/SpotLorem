@@ -1,0 +1,32 @@
+.body{
+  padding:10px;
+  background: rgb(255, 255, 255);
+  margin: 3% auto 100px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+}
+.body2{
+  padding:10px;
+  background: rgb(255, 255, 255);
+  margin: 3% auto 100px auto;
+  max-width: 1000px;
+  border-radius: 10px;
+}
+
+
+.alignBtn{
+  display: flex;
+  align-items: center;
+}
+
+.bg_img{
+  position: fixed; 
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto; 
+  z-index: -1000;
+  background-size: cover; 
+}
